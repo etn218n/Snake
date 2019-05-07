@@ -10,7 +10,7 @@ Simple Snake game on Linux Terminal. Implemented in C and powered by ncurses lib
 </p>
 <br/>
 
-## Instalation
+## Installation
 
 For Ubuntu:
 
